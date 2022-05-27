@@ -9,7 +9,7 @@ def add_fucntion(x, y):
     return x + y
 
 def multiply_function(x, y):
-    return x ** y
+    return x * y
 
 def main():
     print(f'2 plus 3 is: {add_fucntion(2, 3)}')
